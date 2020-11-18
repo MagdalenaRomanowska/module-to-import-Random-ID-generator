@@ -9,6 +9,11 @@ for example
 randomID(25);
 ```
 
+### Also published here:
+```javascript
+https://www.npmjs.com/package/@magdalenaromanowska/randomid-generator
+```
+
 ### Installation
 - With yarn: 
 ```javascript
@@ -42,3 +47,5 @@ it will give 35-digits ID.
 - zmHsXOmtqN,
 - ImfrtZ98Se,
 - ysNRKjjgdS.
+
+
